@@ -1,0 +1,11 @@
+{
+  "name": "practice-travel-site-udemy",
+  "version": "0.0.1",
+  "description": "For Udemy course Git A Web Developer Job",
+  "license": "MIT",
+  "repository": "https://github.com/feuertrunken/practice-travel-site-udemy",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  }
+}
