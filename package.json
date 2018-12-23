@@ -4,8 +4,16 @@
   "description": "For Udemy course Git A Web Developer Job",
   "license": "MIT",
   "repository": "https://github.com/feuertrunken/practice-travel-site-udemy",
+  "stylelint": {
+    "ignoreFiles": [
+      "**/*.js"
+    ]
+  },
   "dependencies": {
-    "jquery": "^3.3.1",
-    "normalize.css": "^8.0.1"
+    "jquery": "3.2.1",
+    "normalize.css": "7.0.0"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1"
   }
 }
