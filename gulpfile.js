@@ -8,7 +8,7 @@ gulp.task('html', function () {
 });
 
 gulp.task('styles', function () {
-  //ssconsole.log("in styles task");
+  //gconsole.log("in styles task");
   return gulp.src('.app/assets/styles/styles.css').pipe(gulp.dest('./app/temp/styles'));
 });
 
